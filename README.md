@@ -1,4 +1,4 @@
-# Health Management System
+# PRACTO-Health Management System
 
 This Health Management System is a Java-based web application that allows users to interact with doctors, book appointments, manage patient information, and provide reviews. The system consists of several modules, including medicine buying, clinic search, and surgery booking.
 
