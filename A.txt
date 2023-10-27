@@ -1,0 +1,2 @@
+1. create entity class in springboot for Doctor name,
+qualification, Specializations, Experience, Description
